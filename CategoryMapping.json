@@ -1,0 +1,88 @@
+﻿{
+
+  "LobbyReception": "room.lobby",
+
+  "Workpoint": "room.workspace",
+
+  "Touchdown": "room.office.shared",
+
+  "FocusRoom": "room.focus",
+
+  "Room": "room.conference",
+
+  "Open": "room.conference",
+
+  "Small": "room.conference.small",
+
+  "Large": "room.conference.large",
+
+  "Conference": "room.conference",
+
+  "OpenMeeting": "room.openMeeting",
+
+  "Conversation": "room.openMeeting",
+
+  "Office": "room.office",
+
+  "Team": "room.office.team",
+
+  "Occupant": "room.storage",
+
+  "Facility": "room.storage",
+
+  "CopyPrintPrimary": "room.copy",
+
+  "JanitorCloset": "room.closet.janitorial",
+
+  "Phone": "room.phone",
+
+  "MailRoom": "room.documents",
+
+  "Restroom": "room.restroom",
+
+  "Womens": "room.restroom.female",
+
+  "Mens": "room.restroom.male",
+
+  "ShowerLocker": "room.shower",
+
+  "Meditation": "room.break",
+
+  "Breakoutwith": "room.break",
+
+  "TrainingRoom": "room.training",
+
+  "MPRSupport": "room.multiPurpose",
+
+  "Lounge": "room.lounge",
+
+  "Library": "room.library",
+
+  "MothersRoom": "room.newMother",
+
+  "Gaming": "room.gaming",
+
+  "ITSupport": "room.server",
+
+  "Cafeteria": "room.cafeteria",
+
+  "KitchenetteVending": "room.kitchenette",
+
+  "Kitchenette": "room.kitchenette",
+
+  "Elevator": "verticalPenetration.elevator",
+
+  "MechElec": "room.mechanical",
+
+  "CableRoom": "room.utility.cable",
+
+  "Vertical": "verticalPenetration.elevator",
+
+  "Stairwell": "verticalPenetration.stairs",
+
+  "Circulation": "room.hallway",
+
+  "Penetration": "verticalPenetration",
+
+  "Zone": "zone"
+}

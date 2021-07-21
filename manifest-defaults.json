@@ -1,0 +1,66 @@
+{
+  "version": "1.1",
+  "directoryInfo": {
+    "name": "Contoso Building 1",
+    "streetAddress": "Contoso Way",
+    "unit": "1",
+    "locality": "Eastside",
+    "postalCode": "00000",
+    "adminDivisions": [
+      "Contoso City",
+      "Contoso State",
+      "United States"
+    ],
+    "hoursOfOperation": "Mo-Fr 08:00-17:00 open",
+    "phone": "1 (425) 555-1234",
+    "website": "www.contoso.com",
+    "nonPublic": false,
+    "anchorLatitude": 47.636152,
+    "anchorLongitude": -122.132600,
+    "anchorHeightAboveSeaLevel": 1000,
+    "defaultLevelVerticalExtent": 3
+  },
+  "buildingLevels": {
+    "levels": [
+    ]
+  },
+  "georeference": {
+    "lat": 47.636152,
+    "lon": -122.132600,
+    "angle": 0
+  },
+  "dwgLayers": {
+    "exterior": [
+      "GROS$"
+    ],
+    "unit": [
+      "RM$"
+    ],
+    "wall": [
+      "A-WALL-EXST",
+      "A-WALL-CORE-EXST",
+      "A-GLAZ-EXST",
+      "A-GLAZ-SILL-EXST",
+      "A-WALL-MOVE-EXST"
+    ],
+    "door": [
+      "A-DOOR-EXST"
+    ],
+    "unitLabel": [
+      "A-IDEN-NUMR-EXST"
+    ],
+    "unitCategory": [
+      "A-IDEN-NAME-EXST"
+    ],
+    "zone": [
+      "ZONES"
+    ],
+    "zoneLabel": [
+      "ZONELABELS"
+    ]
+  },
+  "unitProperties": [
+  ],
+  "zoneProperties": [
+  ]
+}
